@@ -1,7 +1,22 @@
-# PS-LAB-5.2-form-validation
-Per Scholas Lab 5.2 Form Validation
+# Interactive Registration Form with Validation
 
-# Reflection Questions
+## Project Description
+This project is an interactive web-based registration form that implements comprehensive client-side validation using JavaScript. The form validates user input in real-time, including username requirements, email format validation, and strong password enforcement. It demonstrates modern form handling practices by preventing default submission behavior and providing user-friendly custom error messages.
+
+## School/Program
+**Per Scholas** - Software Engineering Program
+
+## Date Completed
+2024
+
+## Programming Languages
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+---
+
+## Reflection Questions
 
 ## How did event.preventDefault() help in handling form submission?
 
